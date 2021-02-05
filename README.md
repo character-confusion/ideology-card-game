@@ -10,4 +10,4 @@ This game is based on Polcompball - check it out on:
 Find the rules in the `rules` doc and downloadable cards in the `cards` folder.
 
 Have questions? Want to find people to play with? Want to contribute? Come to our discord!
-* discord.gg/8FTJSD7
+* [Discord](discord.gg/8FTJSD7)
