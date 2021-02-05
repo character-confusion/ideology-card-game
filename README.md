@@ -1,6 +1,6 @@
 # Ideology: The Card Game
 
-Hello! Thank you for checkout the **Ideology: The Card Game!**
+Hello! Thank you for checking out the **Ideology: The Card Game!**
 
 This game is based on Polcompball - check it out on:
 * [Reddit](https://www.reddit.com/r/Polcompball/)
